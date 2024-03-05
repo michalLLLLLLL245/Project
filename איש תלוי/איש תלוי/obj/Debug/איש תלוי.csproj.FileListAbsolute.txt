@@ -1,0 +1,59 @@
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\איש תלוי.dll.config
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\איש תלוי.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\איש תלוי.pdb
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\csc.exe
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\csc.exe.config
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\csc.rsp
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\csi.exe
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\csi.exe.config
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\csi.rsp
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\Microsoft.Managed.Core.targets
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\Microsoft.Win32.Primitives.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.AppContext.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Collections.Immutable.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Console.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Globalization.Calendars.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.IO.Compression.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.IO.Compression.ZipFile.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.IO.FileSystem.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Net.Http.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Net.Sockets.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Reflection.Metadata.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Security.Cryptography.Encoding.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Security.Cryptography.Primitives.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Threading.Tasks.Extensions.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.ValueTuple.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Xml.ReaderWriter.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Xml.XmlDocument.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Xml.XPath.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\System.Xml.XPath.XDocument.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\vbc.exe
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\vbc.exe.config
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\vbc.rsp
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\VBCSCompiler.exe
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\roslyn\VBCSCompiler.exe.config
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\obj\Debug\איש תלוי.csproj.AssemblyReference.cache
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\obj\Debug\איש תלוי.csproj.CoreCompileInputs.cache
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\obj\Debug\איש תלוי.csproj.CopyComplete
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\obj\Debug\איש תלוי.dll
+M:\מרכז חרדי\מסלולי נשים\הנדסת תוכנה\מחזור תשפג\עפרה רבקה בלעיש\javascript\איש תלוי\איש תלוי\איש תלוי\obj\Debug\איש תלוי.pdb

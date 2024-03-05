@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        body {
+            direction: rtl;
+        }
+
+        .let1 {
+            width: 60px;
+            height: 60px;
+            text-align: center;
+            font-family: 'Javanese Text';
+            font-size: 25px;
+        }
+
+        .let2 {
+            width: 60px;
+            height: 60px;
+            text-align: center;
+            visibility: hidden;
+            font-family: 'Javanese Text';
+            font-size: 25px;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="board">
+
+    </div>
+
+
+    <script>
+
+
+
+        let arrS = ["כל הכבוד", "שיויתי ה לנגדי תמיד", "השמש יפה וזורחת"]
+        let arrLetters = ['א', 'ב', 'ג', 'ד', 'ה', 'ו', 'ז', 'ח', 'ט', 'י', 'כ', 'ל', 'מ', 'נ', 'ס', 'ע', 'פ', 'צ', 'ק', 'ר', 'ש', 'ת', 'ך', 'ם', 'ן', 'ף', 'ץ']
+        let x, counter = 0;
+        let counterR = 0;
+        x = Math.floor(Math.random() * arrS.length);
+        let sen = arrS[x];
+        for (var i = 0; i < sen.length; i++) {
+            if (sen[i] != " ")
+                document.getElementById("board").innerHTML += "<input type='text' class='let1'/>"
+            else { 
+                document.getElementById("board").innerHTML += "<input type='text' class='let1 let2'/>"
+                counterR++;
+            }
+        }
+        document.getElementById("board").innerHTML += "<br/>";
+        document.getElementById("board").innerHTML += "<br/>";
+        document.getElementById("board").innerHTML += "<br/>";
+        for (var i = 0; i < arrLetters.length; i++) {
+            document.getElementById("board").innerHTML += "<input type='button' onclick='check(this)' value='" + arrLetters[i] + "'/>"
+        }
+        document.getElementById("board").innerHTML += '<br/><img scr="1_LI.jpg" />';
+        let arrInput = document.getElementsByClassName("let1");
+        let counter2 = 0;
+        function check(ot) {
+           
+            let flag = false;
+            for (var i = 0; i < sen.length; i++) {
+                if (sen[i] == ot.value) {
+                    flag = true;
+                    arrInput[i].value = ot.value;
+                  
+
+
+                }
+            }
+            counter2 = 0; 
+            for (var i = 0; i < arrInput.length; i++)
+            {
+                if (arrInput[i].value != "") {
+                    counter2++;
+                  
+                }
+            }
+            if (arrInput.length - counterR == counter2)
+                document.getElementById("board").innerHTML += "<h1>הצלחת במשחק<h1>"
+            if (!flag) {
+                counter++;
+                document.getElementsByTagName("img")[0].src = counter + ".jpg";
+            }
+            if (counter == 7)
+                document.getElementById("board").innerHTML += "<h1>הפסדת במשחק<h1>"
+
+        }
+
+
+
+
+
+
+
+    </script>
+
+
+</body>
+</html>

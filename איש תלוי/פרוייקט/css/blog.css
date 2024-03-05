@@ -1,0 +1,41 @@
+﻿body
+{
+}
+h1 {
+    font-size: 40px;
+    color: red;
+    margin-right: 7%;
+    font-weight: bold;
+}
+p {
+    font-size: 22px;
+    font-weight: bold;
+    text-align:center;
+}
+#pir{
+   
+    margin-right:21%;
+    align-items:center;
+}
+
+img{
+    width: 20%;
+    height: 20%;
+    margin: 20px;
+  /*animation-name:e;
+  animation-duration:8s;
+  animation-timing-function:ease-in-out;
+  animation-direction:alternate;
+  animation-delay:initial;*/
+}
+    /*img:hover {
+        width: 10%;
+        height: 20%;
+        animation: shake 0.5s;
+       
+    }*/
+    @keyframes e{
+        from{margin-right:0%;}
+        to{margin-right:10%;}
+    }
+   

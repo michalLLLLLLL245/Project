@@ -1,0 +1,25 @@
+﻿body
+{
+}
+h1 {
+    color: red;
+    margin-right: 7%;
+    font-weight: bold;
+    
+}
+marquee {
+    width:100%;
+    height:initial;
+    font-size:15%;
+    font-weight: bold;
+    direction: rtl;
+    clear:initial;
+}
+img{
+    width:25%;
+    margin:15px;
+    
+}
+p1{
+    color:red;
+}

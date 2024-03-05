@@ -1,0 +1,53 @@
+﻿body {
+    background-image: url("../pic/menu/2.jpg");
+    background-size: 100%;
+    color: azure;
+  /*  font-size:25px;*/
+}
+video {
+    margin-right: 16%;
+    margin-left: 4%;
+    margin-top: 0%;
+    border-radius: 25px;
+    padding: 20px;
+    width: 65%;
+    height: 20%;
+}
+h1{
+    margin-right: 5%;
+    font-size: 35px;
+
+}
+h2 {
+
+    color: red;
+font-size:40px;
+}
+.grid-container {
+    display: grid;
+    grid-template-areas: 'pic pic pic''pic pic pic';
+    margin-right:10%;
+    margin-top:5%;
+  margin-bottom:5%;
+} 
+img{
+    width:70%;
+    margin:6%;
+}
+#hover :hover {
+    opacity:0.5;
+}
+@media only screen and (max-width: 600px) {
+    h2 {
+        font-size: 25px;
+    }
+    h1 {
+        font-size: 26px;
+    }
+}
+@media only screen and (max-width: 992px) {
+    h2{font-size:32px;}
+    h1{font-size:30px;}
+}
+    
+  
